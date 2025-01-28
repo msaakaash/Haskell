@@ -1,0 +1,9 @@
+Questions
+1=>GCD of a Number 
+2=>Product of a list of numbers 
+3=>Reverse a number  
+4=>Sum of n natural numbers 
+5=>Sum of the digits of a number 
+7=>Count the number of zeros in a number 
+8=>Find base exponent using recursion 
+9=>Find product of 2 numbers by recursion (repeated addition) 
