@@ -7,3 +7,6 @@ Questions
 7=>Count the number of zeros in a number 
 8=>Find base exponent using recursion 
 9=>Find product of 2 numbers by recursion (repeated addition) 
+10=>Replicate a digit n times
+11=>Take implementation using recursion
+13=>Elem function
