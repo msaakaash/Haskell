@@ -1,4 +1,4 @@
-# Haskell Code Repository
+# <img align="center" src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>  Haskell Code Repository
 ## 📌 Overview  
 This repository contains my Haskell code for various exercises and implementations. It includes solutions and implementations related to recursion, pattern matching, higher-order functions, and other fundamental Haskell concepts.
 
