@@ -3,13 +3,6 @@
 This repository contains my Haskell code for various exercises and implementations. It includes solutions and implementations related to recursion, pattern matching, higher-order functions, and other fundamental Haskell concepts.
 
 
-## 📂 Repository Structure 
-
-The repository is organized into different sections:
-- **FunctionalComposition**: Contains all the codes related to function composition.
-- **HigherOrderFunctions**: Contains all the codes related to various Higher Order functions.
-- **Lists**: Contains all the codes related to lists.
-- **Recursion** : Contains all codes related to recursion
 
 ## Requirements
 
