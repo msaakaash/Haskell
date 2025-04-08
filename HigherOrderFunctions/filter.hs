@@ -1,9 +1,8 @@
---filter using pattern matching
+filda :: (a -> Bool) -> [a] -> [a]
+filda f [] = []
+filda f (x:xs)
+    | f x = x : filda f xs
+    | otherwise = filda f xs
 
-ft1 :: (a->Bool) -> [a] -> [a]
-ft1 f [] = []
-ft1 f (x:xs) = if f x then x:ft1 f xs else ft1 f xs
-
-main = do
-    let oddz = ft1 odd [1,2,3,4,5]
-    putStrLn $ show(oddz)
+main = do 
+    putStrLn $ show(filda odd [1,2,3,4,5])
